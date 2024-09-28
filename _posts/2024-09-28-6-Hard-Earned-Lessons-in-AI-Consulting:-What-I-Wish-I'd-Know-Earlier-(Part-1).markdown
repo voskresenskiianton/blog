@@ -1,6 +1,10 @@
+---
+layout: page
+---
+
 # 6 Hard-Earned Lessons in AI Consulting: What I Wish I'd Know Earlier (Part 1)
 
-![Figure](/blog/images/hard-lessons-1.png){:width="600px" height="400px"}
+![Figure]({{ site.baseurl }}/images/hard-lessons-1.png){:width="600px" height="400px"}
 
 Whether you're leading an AI team or managing AI projects, you've probably faced the challenge of connecting AI models to real business value. In my early days as an AI consultant, I learned some tough lessons that aren't in textbooks or courses. For anyone responsible for guiding AI projects, handling client expectations, and delivering results, here are six hard-earned lessons that can help you avoid common pitfalls and make your AI initiatives more effective from the start.
 
